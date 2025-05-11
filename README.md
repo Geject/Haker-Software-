@@ -7,7 +7,7 @@
    Use the following link to download the keys:  
    [Geject Haker Software Keys](https://codepen.io/Liggy-Lang/pen/OPPBzmY?editors=1000)
 
-2. **Generate Your API Key**  
+2. **Your API Key**  
    - Now that you have's the keys you are ready for the next step.
 
 3. **Access the Software**  
